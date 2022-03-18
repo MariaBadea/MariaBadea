@@ -5,6 +5,6 @@
 - 📫 How to reach me maria_tirsu@yahoo.com
 
 <!---
-MariaBadea/MariaBadea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MariaBadea/Gynia - Private Hospital is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
